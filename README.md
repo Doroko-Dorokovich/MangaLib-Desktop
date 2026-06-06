@@ -1,6 +1,6 @@
 # MangaLib Desktop
 
-Десктоп-версия для сайта [mangalib.me](https://mangalib.me) на Python и PyWebView.  
+Десктоп-версия для сайта [mangalib.me](https://mangalib.me) и [animelib.org](https://v5.animelib.org/ru) на Python и PyWebView.  
 Позволяет читать мангу, манхву, ранобэ и смотреть аниме в отдельном окне — без вкладок браузера, с сохранением входа и удобным переключением режимов.
 
 ## Возможности
